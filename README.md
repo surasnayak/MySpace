@@ -11,3 +11,4 @@ It has all the information about me.
 - Clone the repository into your local environment.
 - cd into MySpace directory.
 - Open home.html in your webbrowser(Chrome recommened).
+-[Link](https://surasnayak.github.io/MySpace/home.html)
