@@ -1,6 +1,6 @@
 # MySpace
 
-![Logo](images/homescreen.png)
+![HomePage](images/homescreen.png)
 
 ### Welcome to MySpace!
 
