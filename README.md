@@ -1,4 +1,13 @@
 # MySpace
 
-This is the first website made me after the start of OpenCode18.
-Wanna know me hit the link below.
+![Logo](images/homescreen.png)
+
+### Welcome to MySpace!
+
+This is my first werbsite.
+It has all the information about me.
+
+### Setup
+- Clone the repository into your local environment.
+- cd into MySpace directory.
+- Open home.html in your webbrowser(Chrome recommened).
